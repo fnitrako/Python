@@ -1,2 +1,2 @@
-| Francisco Javier García Cordero | PPS | Ciberseguridad |
+<p align="center>Francisco Javier García Cordero  - Ciberseguridad  - PPS </p>
 # Ejercicios Python
