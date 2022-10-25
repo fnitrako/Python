@@ -1,3 +1,3 @@
-<center>Francisco Javier García Cordero</center>
+<p align="center">Francisco Javier García Cordero</p>
 
 # Ejercicios Python
